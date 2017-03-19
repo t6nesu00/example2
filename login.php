@@ -20,4 +20,5 @@
       echo 'Hello'.$_POST['user'];
     }
     ?>
+    <!-- sdfsdfsdf -->
 <?php include "folder.php"; ?>
